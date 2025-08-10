@@ -1,0 +1,192 @@
+[
+    {
+        "job": "Test Automation Engineer (Vac QA)",
+        "keywords": [
+            "qa",
+            "jenkins",
+            "pytest",
+            "python",
+            "blockchain",
+            "github",
+            "docker",
+            "rust"
+        ],
+        "company_name": "Vac"
+    },
+    {
+        "job": "Senior Full Stack Engineer",
+        "keywords": [
+            "ethereum",
+            "jwt",
+            "graphql",
+            "kubernetes",
+            "solidity",
+            "node",
+            "argo",
+            "blockchain",
+            "rails",
+            "python",
+            "vpc",
+            "typescript",
+            "postgresql",
+            "tailwind",
+            "react",
+            "web3",
+            "docker",
+            "aws",
+            "sql"
+        ],
+        "company_name": "Grove Labs"
+    },
+    {
+        "job": "Credit Analyst",
+        "keywords": [
+            "oracle",
+            "sql",
+            "rails",
+            "python"
+        ],
+        "company_name": "Grove Labs"
+    },
+    {
+        "job": "Senior Design Engineer",
+        "keywords": [
+            "python",
+            "flutter",
+            "kotlin",
+            "ux",
+            "swift",
+            "ml",
+            "android",
+            "react",
+            "ios"
+        ],
+        "company_name": "Ello"
+    },
+    {
+        "job": "Sales Engineer",
+        "keywords": [
+            "python",
+            "javascript",
+            "web3",
+            "typescript",
+            "ethereum",
+            "ledger",
+            "blockchain"
+        ],
+        "company_name": "P2P.org"
+    },
+    {
+        "job": "Distributed Systems Evaluation Engineer",
+        "keywords": [
+            "rust",
+            "docker",
+            "python",
+            "pandas",
+            "blockchain",
+            "kubernetes"
+        ],
+        "company_name": "Vac"
+    },
+    {
+        "job": "Data Engineer",
+        "keywords": [
+            "ethereum",
+            "prometheus",
+            "nomad",
+            "web3",
+            "github",
+            "kubernetes",
+            "grafana",
+            "mongodb",
+            "pandas",
+            "etl",
+            "apache",
+            "scala",
+            "spark",
+            "python"
+        ],
+        "company_name": "DV Labs"
+    },
+    {
+        "job": "Senior Product Manager - Growth and Ops",
+        "keywords": [
+            "python"
+        ],
+        "company_name": "Steakhouse Financial"
+    },
+    {
+        "job": "Senior Smart Contract Engineer",
+        "keywords": [
+            "javascript",
+            "web3",
+            "solidity",
+            "python",
+            "blockchain",
+            "typescript",
+            "ethereum",
+            "rust",
+            "node"
+        ],
+        "company_name": "Symbiotic"
+    },
+    {
+        "job": "Senior Data Engineer",
+        "keywords": [
+            "aws",
+            "blockchain",
+            "web3",
+            "python",
+            "ethereum",
+            "gcp",
+            "sql"
+        ],
+        "company_name": "CoW DAO"
+    },
+    {
+        "job": "DevOps Lead",
+        "keywords": [
+            "docker",
+            "blockchain",
+            "web3",
+            "terraform",
+            "dragonfly",
+            "aws",
+            "grafana",
+            "javascript",
+            "bash",
+            "kubernetes",
+            "prometheus",
+            "gcp",
+            "python"
+        ],
+        "company_name": "Interop Labs"
+    },
+    {
+        "job": "Senior/Staff Backend Engineer",
+        "keywords": [
+            "blockchain",
+            "postgresql",
+            "rust",
+            "golang",
+            "node",
+            "python"
+        ],
+        "company_name": "aPriori"
+    },
+    {
+        "job": "Senior Product Engineer",
+        "keywords": [
+            "python",
+            "flutter",
+            "swift",
+            "react",
+            "kotlin",
+            "android",
+            "ml",
+            "ux",
+            "ios"
+        ],
+        "company_name": "Ello"
+    }
+]
